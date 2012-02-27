@@ -1,0 +1,3 @@
+This application provides an interface that lets user generate a report in  an Excel file containing the following columns 
+Barcode, Pages, Lanhuage, Title, Description, Date OCR Finished, Dimension.
+the Data in these columns is pulled from two sources, the KIRTAS KILTS Database and WRLc z3950 server.
